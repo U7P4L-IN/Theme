@@ -8,8 +8,7 @@ ANONYMOUS U7P4L
 
 </br>
 <p align="center">
-      ⚡Tracking Victims IP address and get Location ⚡
-
+      ⚡Change Tarmux Tarminal Background Colour ⚡
 </p>
   
 #### INSTALL TOOL ON TERMUX
