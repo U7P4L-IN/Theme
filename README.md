@@ -1,5 +1,10 @@
 <p align="center">
-____Welcome____
+
+
+Welcome⚡
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
 
 
 AUTHOR:
@@ -8,7 +13,8 @@ ANONYMOUS U7P4L
 
 </br>
 <p align="center">
-      ⚡Change Tarmux Tarminal Background Colour ⚡
+      Tarmux customisable Stylish Fronts and background colour. 
+
 </p>
   
 #### INSTALL TOOL ON TERMUX
@@ -22,12 +28,18 @@ ANONYMOUS U7P4L
  pip install futures
  pip install mechanize
  cd $HOME 
- git clone https://github.com/U7P4L-IN/Theme.git
+ rm -rf Theme
+ git clone --depth=1 https://github.com/U7P4L-IN/Theme.git
 
  cd Theme
 
+ ls
+
  bash Theme.sh
 ```
+#### Screenshots:
+
+<p align="center"><img src="https://github.com/U7P4L-IN/Theme/blob/main/IMG_20230301_114446.jpg">
 
 
 #### Tools Languages :
