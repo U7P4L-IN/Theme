@@ -18,12 +18,12 @@ echo -e "\e[1;39m   ██║╚██╔╝██║██╔══██║╚
 echo -e "\e[1;39m   ██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║  ██║"
 echo -e "\e[1;39m   ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝"
 echo
-echo -e "\e[1;39m\e[44m      CODED BY ANONYMOUS U7P4L(Owner of ANONYMOUS U7P4L CYBER)     "
+echo -e "\e[1;39m\e[44m      CODED BY U7P4L(Owner of U7P4L IN CYBER)     "
 echo -e "\e[49m "
 }
 tool(){
 logo
-xdg-open https://github.com/ANONYMOUS-U7P4L
+xdg-open https://github.com/U7P4L-IN
 echo
 echo -e "\e[1;33m               [1] Powerlevel10K (Custom Theme)"
 echo -e "\e[1;33m               [2] Oh My zsh"
