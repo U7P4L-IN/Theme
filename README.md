@@ -23,10 +23,9 @@ ANONYMOUS U7P4L
  pip install mechanize
  cd $HOME 
  git clone https://github.com/U7P4L-IN/Theme.git
-```
-#### RUN SCRIPT
-```python
+
  cd Theme
+
  bash Theme.sh
 ```
 
